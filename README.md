@@ -1,15 +1,13 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
-https://pypi.org/project/django-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/django-timesince-shortener.svg?longCache=True)](https://pypi.org/project/django-timesince-shortener/)
+
 [![](https://img.shields.io/pypi/v/django-timesince-shortener.svg?maxAge=3600)](https://pypi.org/project/django-timesince-shortener/)
 [![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/django-timesince-shortener.py.svg?branch=master)](https://travis-ci.org/andrewp-as-is/django-timesince-shortener.py/)
+[![](https://github.com/andrewp-as-is/django-timesince-shortener.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/django-timesince-shortener.py/actions)
 
-#### Installation
+### Installation
 ```bash
 $ [sudo] pip install django-timesince-shortener
 ```
@@ -27,5 +25,5 @@ $ [sudo] pip install django-timesince-shortener
 `1 year 2 months ago`|`1 year ago`
 
 <p align="center">
-    <a href="https://pypi.org/project/django-readme-generator/">django-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
